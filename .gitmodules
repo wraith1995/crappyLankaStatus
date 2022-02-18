@@ -1,0 +1,3 @@
+[submodule "Slurm_tools"]
+	path = Slurm_tools
+	url = https://github.com/OleHolmNielsen/Slurm_tools
